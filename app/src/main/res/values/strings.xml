@@ -1,0 +1,260 @@
+<resources>
+    <string name="app_name">Plastic Help</string>
+
+    <string name="txtPolimero">
+        Un polímero termofijo es un pre-polímero en estado viscoso \u0020
+        o semi-sólido que cambia irreversiblemente a un polímero \u0020
+        infundible e insoluble por medio de curado. El curado es \u0020
+        inducido por la acción del calor y un agente reactivo \u0020
+        (o catalizador), dentro del equipo de procesamiento, \u0020
+        ya sea por inyección, extrusión o sólo dentro de en un molde.
+    </string>
+
+    <string name="txtMonomero">
+        Un monómero es una molécula que forma la unidad básica \u0020
+        para los polímeros. Pueden ser considerados los bloques \u0020
+        de construcción de los cuales se hacen las proteínas. \u0020
+        Los monómeros pueden unirse a otros monómeros para formar \u0020
+        una molécula de cadena repetitiva a través de un proceso \u0020
+        denominado polimerización. Los monómeros pueden ser de \u0020
+        origen natural o sintético.
+    </string>
+
+    <string name="def_Inyeccion">
+        La inyección del plástico es un proceso semicontinuo que \u0020
+        consiste en inyectar un polímero en estado plastificado \u0020
+        en un molde cerrado a presión y frío, a través de un \u0020
+        orificio pequeño llamado bebedero.\n\n
+        En ese molde el material se solidifica, comenzando a \u0020
+        cristalizar en polímeros semicristalinos. \n
+        La pieza o parte final se obtiene al abrir el molde y \u0020
+        sacar de la cavidad la pieza moldeada.\n\n
+        El moldeo por inyección es una técnica muy popular para \u0020
+        la fabricación de artículos muy diferentes \u0020
+        debido a la versatilidad de piezas que pueden fabricarse, \u0020
+        la rapidez de fabricación, el diseño de prototipos rápidos, \u0020
+        altos niveles de producción y bajos costos, alta o baja automatización \u0020
+        según el costo de la pieza, geometrías muy complicadas.\n
+        Las piezas moldeadas requieren muy poco o nulo \u0020
+        acabado pues son terminadas con la rugosidad de superficie \u0020
+        deseada, color y transparencia u opacidad, \u0020
+        buena tolerancia dimensional de piezas moldeadas con o sin \u0020
+        insertos y con diferentes colores.\n\n
+        Una máquina de inyección se constituye de dos partes:\n
+        -La unidad de inyección.\n
+        -La unidad de cierre.\n\n
+        La unidad de inyección se encarga de plastificar al polímero \u0020
+        utilizado para la elaboración de la pieza a fabricar, \u0020
+        una vez que el polímero en forma de pellet es introducido \u0020
+        por medio de una tolva hasta llegar al husillo y el barril, \u0020
+        los cuales se encargarán \u0020
+        de plastificar al material por medio de unas resistencias, \u0020
+        una vez que ya haya pasado esto un pistón empujará al husillo \u0020
+        y a su vez al material pasando por una boquilla hasta llegar \u0020
+        al molde; por otro lado la unidad de cierre es la encargada \u0020
+        de que el molde esté cerrado de tal manera en la que el material \u0020
+        no pueda salirse del mismo, evitando que la pieza no sea de \u0020
+        calidad y no cumpla con los estándares establecidos por \u0020
+        el operador de la máquina.
+    </string>
+
+    <string name="ap_Inyeccion">
+        En el proceso del moldeo por inyección se pueden elaborar diversos productos, como:\n\n
+        - Artículos para el hogar\n
+        - Cubetas\n
+        - Palanganas\n
+        - Recipientes para alimentos\n
+        - Tapas
+    </string>
+
+    <string name="def_Ext">
+        La Extrusión es un proceso por el cual un material
+        termoplástico en estado plastificado es forzado
+        a través de un dado a fluir continuamente para formar
+        perfiles de una longitud indefinida, a la salida,
+        el perfil es recogido por una unidad de arrastre de
+        velocidad variable la cual le proporcionará
+        las dimensiones finales mientras este se enfría en
+        tinas de agua para adquirir la forma deseada.\n
+        \n
+        Una máquina extrusora consta de un cañón donde se encuentra
+        un husillo el cual recoge al polímero en forma de pellets
+        de la tolva de alimentación, posteriormente el polímero
+        ya plastificado es arrastrado por una unidad de arrastre
+        (si es Extrusión lineal)  avanzando a lo largo de esta,
+        se modifica el diametro y grosor del perfil y finalmente
+        se introduce en una tina de enfriamiento para posteriormente
+        ser cortado de distintos tamaños por una cuchilla.
+    </string>
+
+    <string name="ap_Ext">
+        Debido a las variables que el proceso de Extrusión posee
+        se pueden elaborar algunos de los siguientes productos:\n
+        -Láminas\n
+        -Tubería\n
+        -Recubrimiento de cable\n
+        -Película.\n
+        -bolsas
+    </string>
+
+    <string-array name="acrons">
+        <item>PVC</item>
+        <item>ABS</item>
+        <item>ASA</item>
+        <item>PET</item>
+    </string-array>
+
+    <string name="pvc">Policloruro De Vinilo</string>
+    <string name="desc_pvc">
+        El PVC es un material esencialmente amorfo con porciones \u0020 sindiotácticas que no
+        constituyen más de 20% del total, generalmente cuenta con grados de cristalinidad menores.\n\n
+        La gran polaridad que imparte el átomo de cloro transforma al PVC en un material rígido. \u0020
+        Algunos de sus grados aceptan fácilmente diversos plastificantes, modificándolo en flexible \u0020
+        y elástico. Esto explica la gran versatilidad que caracteriza a este polímero, empleado para \u0020
+        fabricar artículo de gran rigidez y accesorios para tubería, productos semiflexibles como perfiles \u0020
+        para persianas y otros muy flexibles como sandalias y películas.\n\n
+        El PVC es un polvo blanco, inodoro e insípido, fisiológicamente inofensivo. Tiene un contenido \u0020
+        teórico de 57% de cloro, difícilmente inflamable, no arde por sí mismo. La estructura de la partícula a \u0020
+        veces es similar a la de una bola de algodón. El diámetro varía dependiendo del proceso de polimerización.
+    </string>
+    <string name="info_pvc">
+        El Policloruro de Vinilo (PVC) es un polímero termoplástico resultante de la asociación molecular \u0020
+        del monómero Cloruro de Vinilo.\n\n
+        Por sí solo es el más inestable de los termoplásticos, pero con aditivos es el más versátil y puede \u0020
+        ser sometido a variados procesos para su transformación, lo que le ha hecho ocupar, por su consumo, \u0020
+        en el segundo lugar mundial detrás del Polietileno.
+    </string>
+    <string name="ap_pvc">
+        Segmento rígido:\n\n
+        Tubería\n
+        Botellas (Aceites comestibles, shampoos y agua purificada)\n
+        Película y Lámina\n
+        Perfiles\n
+        Segmento Flexible:\n
+        Calzado\n
+        Película\n
+        Recubrimiento de cable y alambre\n
+        Perfiles\n
+        Loseta
+    </string>
+
+    <string name="abs">Acrilonitrilo Butadieno Estireno</string>
+    <string name="desc_abs">
+        Acrilonitrilo:\n\n
+        *Resistencia química\n
+        *Resistencia a la fatiga\n
+        *Dureza y rigidez\n
+        *Resistencia a la fusión\n
+        *Butadieno:\n\n
+        *Ductilidad a baja temperatura\n
+        *Resistencia al impacto\n
+        *Resistencia a la fusión\n
+        Estireno:\n\n
+        *Facilidad de procesado (fluidez)\n
+        *Brillo\n
+        *Dureza y rigidez\n\n
+        Dentro de sus propiedades físicas se encuentran:\n\n
+        Fuerza tensil: 40-50 Mpa\n
+        Fuerza al impacto ( Notched Impact Strength) : 10-20 Kj/m 2\n
+        Coeficiente de expansión térmica: 70-90 x10 -6\n
+        Temperatura de uso máximo ( Max Cont Use Temp) : 80-95 °C\n
+        Densidad: 1.0-1.05 g/cm 3\n
+    </string>
+    <string name="info_abs">
+        El acrilonitrilo butadieno estireno o ABS es un termoplástico duro, \u0020
+        resistente al calor y a los impactos. Es un copolímero obtenido de la \u0020
+        polimerización del estireno y acrilonitrilo en la presencia del \u0020
+        polibutadieno, resultado de la combinación de los tres monómeros, \u0020
+        originando un plástico que se presenta en una gran variedad de \u0020
+        grados dependiendo de las proporciones utilizadas de cada uno.\n\n
+        Su Formula Quimica es: (C8H8·C4H6·C3H3N)
+    </string>
+    <string name="ap_abs">
+        Debido a que las propiedades del ABS son suficientemente buenas \u0020
+        para diversas aplicaciones, entre las que se encuentran:\n\n\n
+        -Carcasas de electrodomésticos y de teléfonos\n
+        -Maletas\n
+        -Cascos deportivos\n
+        -Cubiertas internas de las puertas de refrigeradores\n
+        -Carcasas de computadoras\n
+        -Fabricación de tubería sanitaria como sustituto del PVC\n
+        -Por su característica de ser cromable se utiliza ampliamente en la industria automotriz\n
+        -Se pueden usar en aleaciones con otros plásticos, por ejemplo, el ABS con el PVC \u0020
+        nos da un plástico de alta resistencia a la flama que le permite encontrar \u0020
+        amplio uso en la construcción de televisores.
+    </string>
+
+    <string name="asa">Acrinolitrilo Estireno Acrinolitrilo</string>
+    <string name="desc_asa">
+        Densidad (g/cm3):\t 1.07\n
+        Dureza de la superficie:\t RR105\n
+        Resistencia a la tracción (MPa):\t 35\n
+        Módulo de flexión (GPa):\t 2.5\n
+        Impacto Izod (kJ/m):\t 0.1\n
+        Expansión lineal (/°C x 10-5):\t 10\n
+        Alargamiento de rotura (%):\t 10\n
+        Tensión en Rendimiento (%):\t 3.3\n
+        Max. Temp. de funcionamiento.(°C):\t 60\n
+    </string>
+    <string name="info_asa">
+        El ASA es un terpolímero amorfo termoplástico constituido por acrilonitrilo, \u0020
+        estireno y acrilato. El ASA es un plástico denominado de ingeniería, con una excepcional \u0020
+        resistencia a la intemperie. A diferencia de muchos materiales plásticos, el ASA mantiene su color \u0020
+        y resistencia al impacto, incluso después de largo tiempo de uso al aire libre a largo plazo. \n
+        El ASA es a menudo utilizado para techos de viviendas, cubiertas de equipo de transporte, \u0020
+        maquinaria al aire libre y los equipos eléctricos cuando se requiere de color persistente y resistencia al impacto.
+    </string>
+    <string name="ap_asa">
+        - Partes de vivienda (marcos de ventanas y techos) \n
+        - Componentes aeroespaciales \n
+        - Partes de automóviles (parilla del radiador) \n
+        - Juguetes \n
+        - Piezas estructurales al aire libre (perfiles, tubos) \n
+        - Instalaciones eléctricas (gabinetes, cajas)
+    </string>
+
+    <string name="pet">Polietileno Tereftalato</string>
+    <string name="desc_pet">
+        Contacto alimentario, Resistencia fisica, Propiedades termicas, Propiedades barreras, Ligereza y Resistencia quimica
+    </string>
+    <string name="info_pet">
+        El PET se utiliza principalmente en la producion de botellas para bebidas, a traves de su reciclado \u0020
+        se obtienen fribras para el relleno de bolsas de dormir, alfombras, cuerdas y alomohadas.\n\n
+        El Polietileno Tereftalato (PET) es un Poliéster Termoplástico y se produce a partir de dos compuestos \u0020
+        principalmente: Ácido Terftálico y Etilenglicol, aunque también puede obtenerse utilizando Dimetiltereftalato \u0020
+        en lugar de Ácido Tereftálico. Este material tiene una baja velocidad de cristalización y puede encontrarse en estado\n \u0020
+        amorfo-transparente o cristalino.
+    </string>
+    <string name="ap_pet">
+        En la actualidad se están abriendo cada vez más nuevos campos de aplicación y se desarrollan botellas PET \u0020
+        de alta calidad y reducido peso, entre sus aplicaciones más importantes dentro de los siguientes sectores:\n\n
+        El uso del PET en el envase y empaque:\n
+        Las firmas de maquinaria han contribuido en gran medida a impulsar la evolución de manera rápida de los envases, \u0020
+        por lo que hoy se encuentran disponibles envases para llenado a temperaturas normales y para \u0020 llenado en caliente; \u0020
+        también se desarrollan envases muy \u0020 pequeños desde 10 mililitros hasta garrafones de 19 litros.\n
+        Los tarros de boca ancha son utilizados en el envasado de conservas alimenticias.\n\n
+    </string>
+
+
+    <string-array name="turnos">
+        <item>Matutino</item>
+        <item>Vespertino</item>
+    </string-array>
+
+    <string-array name="opciones">
+        <item>Conceptos Basicos</item>
+        <item>Procesos de Transformacion</item>
+        <item>Acronimos</item>
+    </string-array>
+
+    <string-array name="conceptos">
+        <item>Polimero</item>
+        <item>Monomero</item>
+    </string-array>
+
+    <string-array name="procesos">
+        <item>Proceso de Inyeccion</item>
+        <item>Proceso de Extruccion</item>
+    </string-array>
+
+</resources>
